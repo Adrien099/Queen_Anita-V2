@@ -152,7 +152,7 @@ astro_patch.smd(
   ${menuThemeCommandPrefix} *ᴅᴀᴛᴀʙᴀsᴇ:* ${database_info}
   ${menuThemeFooter}\n                   ┌┤✑  Thanks for Choosing QUEEN_ANITA-V2
 │└────────────┈ ⳹        
-│*©2024-2099 David Cyril*
+│*©2024-2099 Ruby*
 └─────────────────┈ ⳹
   \n${readmore}\n`;
 
